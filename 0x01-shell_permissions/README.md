@@ -5,3 +5,4 @@ A repo that contains script from ALX SE for permissions management :
 3-new_owner : change the owner of the file hello to the user betty
 4-empty : create an empty file called hello
 5-execute : adds execute permission to the owner of the file
+6-multiple_permissions : add execute permission to owner and group, add read permission to other users
