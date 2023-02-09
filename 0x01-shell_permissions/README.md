@@ -4,3 +4,4 @@ A repo that contains script from ALX SE for permissions management :
 2-groups : get the groups that the current user is part of
 3-new_owner : change the owner of the file hello to the user betty
 4-empty : create an empty file called hello
+5-execute : adds execute permission to the owner of the file
