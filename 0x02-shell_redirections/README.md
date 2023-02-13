@@ -7,3 +7,4 @@ This repo is for shell I/O redirctions and special characters :
 5-firstlines : Display the first 10 lines of /etc/passwd.
 6-third_line : Display the third line of /etc/passwd.
 7-file : Create a file with some special characters in his name.
+8-cwd_state : writes into the file ls_cwd_content the result of the command ls -la.
