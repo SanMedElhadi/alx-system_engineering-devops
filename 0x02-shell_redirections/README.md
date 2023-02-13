@@ -8,3 +8,4 @@ This repo is for shell I/O redirctions and special characters :
 6-third_line : Display the third line of /etc/passwd.
 7-file : Create a file with some special characters in his name.
 8-cwd_state : writes into the file ls_cwd_content the result of the command ls -la.
+9-duplicate_last_line : duplicates the last line of the file iacta
